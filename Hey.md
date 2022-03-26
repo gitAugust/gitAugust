@@ -7,6 +7,9 @@
 <a target="_blank" href="https://www.linkedin.com/in/%E7%A5%8E%E7%90%9B-%E6%A2%81-527056206/">
   <img align="left" alt="LinkdeIN" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />
 </a>
+<a target="_blank" href="mailto:liangyichen666@gmail.com">
+  <img align="left" alt="Gmail" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" />
+</a>
 </br> 
 
 
